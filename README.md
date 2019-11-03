@@ -67,19 +67,19 @@ Player 2 -- Pawn: * / King: @
 Player 1's turn
 
 Available moves:
-Move 1: B3 --> A
-Move 2: B3 --> C
-Move 3: D3 --> C
-Move 4: D3 --> E
-Move 5: F3 --> E
-Move 6: F3 --> G
-Move 7: H3 --> G
+Move 1: B3 --> A2
+Move 2: B3 --> C4
+Move 3: D3 --> C2
+Move 4: D3 --> E4
+Move 5: F3 --> E4
+Move 6: F3 --> G2
+Move 7: H3 --> G2
 
 AI is making a move...
 Completed search to depth 8.
 Ran out of time searching to depth 9.
 Search duration: 1 seconds
-Move done: F3 -> E
+Move done: F3 -> E4
 ```
 
 #### Search algorithm
